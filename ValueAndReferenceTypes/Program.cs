@@ -22,6 +22,8 @@ namespace ValueAndReferenceTypes
             sayilar2[0] = 999;
             Console.WriteLine(sayilar2[0]);
             //cevap 999
+
+
         }
     }
 }
